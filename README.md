@@ -2,9 +2,7 @@ REST API Small Task
 
 | Description  | Method | HTTP Request|
 | ------------- | ------------- |------------- |
-| Get list of countries  | GET  |GET /restapi/country HTTP 1.1
-Host: my.site.com
-User-Agent: Internet-Explorer 9.0 |
+| Get list of countries  | GET  |GET /restapi/country HTTP 1.1 \n\r Host: my.site.com \n\r User-Agent: Internet-Explorer 9.0 |
 | Get list of hotels in country  | GET  | GET /restapi/hotel/country/ukraine HTTP 1.1
 Host: my.site.com
 User-Agent: Internet-Explorer 9.0 |
